@@ -11,7 +11,7 @@ To keep our target app realistic, the features we will provide our:-
 -   Post sharing
 -   Private messaging
 
-If you want to try it out, we are live at https://loopedin.site/.
+If you want to try it out, check out https://loopedin.site/.
 
 ## We will support:
 
